@@ -9,3 +9,4 @@ def using_pop(array)
 end
 def using shift(array)
   array.shift
+end
